@@ -35,12 +35,4 @@ It helps content creators quickly turn ideas into visually appealing thumbnails 
 ### 🤖 AI Integration
 - Gemini API / OpenAI  
 
----
 
-## 📁 Project Structure
-thumblify/
-│
-├── client/ # React frontend
-├── server/ # Node.js backend
-├── .gitignore
-└── README.md
